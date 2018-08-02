@@ -1,0 +1,6 @@
+**.kdev4
+**~
+**.kate-swp
+build/
+thirdparty/poly1305aes*
+
